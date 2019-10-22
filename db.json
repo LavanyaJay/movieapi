@@ -8,6 +8,16 @@
     "director":"Guy Ritchie",
     "stars":"Will Smith, Mena Massoud, Naomi Scott",
     "userscore":8   
+  },
+  
+  {
+    "id": 2,
+    "title": "Toy Story",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "desc": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "director":"John Lasseter",
+    "stars":"Tom Hanks, Tim Allen, Don Rickles",
+    "userscore":9   
   }
   
  ]
