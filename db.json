@@ -7,7 +7,8 @@
     "desc": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make deepest wishes come true.",
     "director":"Guy Ritchie",
     "stars":"Will Smith, Mena Massoud, Naomi Scott",
-    "userscore":8   
+    "userscore":8,   
+    "genre":"Animation"
   },
   
   {
@@ -17,7 +18,8 @@
     "desc": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
     "director":"John Lasseter",
     "stars":"Tom Hanks, Tim Allen, Don Rickles",
-    "userscore":9   
+    "userscore":9,
+    "genre":"Animation"
   },
     
   {
@@ -27,7 +29,18 @@
     "desc": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery",
     "director":"Roger Allers, Rob Minkoff",
     "stars":"Matthew Broderick, Jeremy Irons, James Earl Jones",
-    "userscore":9.5 
+    "userscore":9.5,
+    "genre":"Animation"
+  },
+  {
+    "id": 4,
+    "title": "The Martian",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "desc": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+    "director":"Ridley Scott",
+    "stars":" Matt Damon, Jessica Chastain",
+    "userscore":8.5,
+    "genre":"Sci-Fi"
   }
   
  ]
