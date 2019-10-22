@@ -1,4 +1,4 @@
-[
+{"movies":[
   {
     "id": 1,
     "title": "Aladdin",
@@ -27,3 +27,4 @@
     "userscore":8.8   
   }
   ]
+}
