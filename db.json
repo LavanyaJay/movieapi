@@ -51,7 +51,17 @@
     "stars":" Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",
     "userscore":9.3,
     "genre":"Drama"
-  }
+  },
+   {
+    "id": 6,
+    "title": "Love Actually",    
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_.jpg",
+    "desc": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+    "director":"Richard Curtis",
+    "stars":" Hugh Grant, Liam Nesson, Martine McCutcheon",
+    "userscore":9.3,
+    "genre":"Romance"
+  }  
      
  ]
 }
